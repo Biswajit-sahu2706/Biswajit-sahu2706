@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biswajit Sahu</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-sahu2706&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-sahu2706" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9lOTE3b3lpMjFreHhlOTk2OTFnd3E1bWZ3ZGlvNmF5NXRvcjVtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" /> </p>
 
 - 📫 How to reach me **biswajitsahu2706@gmail.com**
 
